@@ -1,0 +1,4 @@
+create three api
+1. one api is to generate matrix (3 x 5) all unique between 1 to 100
+2. second is to generate random number which will be push to the array which array will be given to the third api
+3. third api is (array, matrix) & generate the patterns
